@@ -1,5 +1,4 @@
 # Note: 
-  Material specific to SAPIENT has been moved to [SAPIENT_LM](https://github.com/SeshagiriSriram/SAPIENT_LM)
 # Introduction
 The following directory (project) is intended for additional materials on Devops. This is still work in project as we clean up to  
 *  logically organize the folders and materials
